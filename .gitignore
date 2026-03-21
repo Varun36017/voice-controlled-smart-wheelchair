@@ -1,0 +1,32 @@
+# Arduino specific
+*.ino.cpp
+*.hex
+*.elf
+*.bin
+
+# Build folders
+build/
+*.o
+*.d
+
+# Arduino IDE files
+*.arduino
+*.sketch
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# VS Code (if you used it)
+.vscode/
+
+# Mac system files
+.AppleDouble
+.LSOverride
